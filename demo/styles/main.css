@@ -1,0 +1,17 @@
+.gridy {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ccc;
+}
+
+.gridy-item {
+  background: #ccc;
+}
+
+.gridy-placeholder {
+  background: #fc0;
+}
+
+.gridy-drag-handle, .gridy-resize-handle {
+  background: #ccf;
+}

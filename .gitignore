@@ -1,0 +1,18 @@
+# generic (system) files/extensions we don't want
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+.idea/*
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+lib-cov
+pids
+logs
+results
+bower_components
+node_modules
